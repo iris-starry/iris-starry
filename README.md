@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=sunheeKim&fontSize=70&animation=twinkling)
+<img width="{50}" src="{이미지 경로}"/>
 
 
 <!--

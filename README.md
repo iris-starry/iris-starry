@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=sunheeKim&fontSize=70&animation=twinkling)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
 <!--
 **iris-starry/iris-starry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

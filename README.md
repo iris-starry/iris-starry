@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=100&section=header&text=&fontSize=50)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=100&section=footer)
+
 <h1><img width="{80%}" src="https://user-images.githubusercontent.com/106311884/190360215-ee502523-2525-4ad7-817d-116cb56b927e.gif" width="40" height="40"/>Hello! Nice to meet you.</h1>
 
 ###### Welcome to my page! <br/>I'm 17 years old and currently attending Mirim Girls' Information Science High School🏫
@@ -19,4 +21,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iris-starry&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iris-starry&show_icons=true&theme=dracula)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F44A6A&height=100&section=footer)
+

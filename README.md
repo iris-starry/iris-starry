@@ -1,8 +1,6 @@
 
 <h1>Hello! Nice to meet you.</h1>
 
-#### 💜 SNS list 💜
-
 
 <br/>
 
